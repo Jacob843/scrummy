@@ -1,3 +1,5 @@
+## This project has been discontinued due to the fact the Orange Hat Tech, LLC has made their own launcher for ScrumbleShip. 
+
 #### Scrumbleship is a Trademark of Orange Hat Tech LLC, this project is in no way condoned or officially supported by Orange Hat Tech
 ##### Current version is: 0.2.2
 
